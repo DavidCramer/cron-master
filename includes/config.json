@@ -1,0 +1,5 @@
+{
+  "daemon": "http://wplib.box/wp-content/plugins/cron-master/includes/daemon.php",
+  "handler": "http://wplib.box/wp-content/plugins/cron-master/includes/cron-handler.php",
+  "cron": "http://wplib.box/wp-cron.php?doing_wp_cron"
+}

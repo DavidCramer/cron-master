@@ -1,0 +1,22 @@
+source: ./
+destination: ../plugin-docs/cron-master
+title: Cron Master Documentation
+groups: namespaces
+exclude: 
+    - docs/*
+    - node_modules/*
+    - vendor/*
+templateTheme: bootstrap
+accessLevels:
+    - public
+    - protected
+    - private
+internal: yes
+php: yes
+tree: yes
+deprecated: no
+todo: yes
+sourceCode: yes
+download: Yes
+quiet: No
+debug: No
